@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * This is a GitHub test from MSVC 2019
+ */
+using System;
 
 namespace HelloWorldSeeSharp
 {
@@ -8,5 +11,7 @@ namespace HelloWorldSeeSharp
         {
             Console.WriteLine("Hello World See Sharp!");
         }
+
+
     }
 }
